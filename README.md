@@ -14,3 +14,6 @@ Hi 👋, I'm S MD NAQEEB
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Smohammadnaqeeb&theme=tokyonight)
+
+
+![snake gif](https://github.com/Smohammadnaqeeb/Smohammadnaqeeb/blob/output/github-snake-dark.svg)
